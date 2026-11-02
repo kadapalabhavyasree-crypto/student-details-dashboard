@@ -89,6 +89,7 @@ To use your own dataset, upload a CSV through the sidebar. The dashboard recogni
 Some common alternative column names are mapped automatically (for example, `Name` to `Student Name`, `Roll No` to `Roll Number`, and `City` to `Address`). Missing optional fields are filled with default values. For meaningful charts, provide the relevant columns in your CSV.
 
 ## Dashboard navigation
+dashboard link : https://student-details-dashboard-nylb4bxx8tutlzv5cfu3xd.streamlit.app/
 
 1. **Overview** — student count, average marks, gender share, branch count, and distribution charts.
 2. **Student Trends** — marks distribution and age distribution; academic-year trend is shown if an `Academic Year` column exists.
